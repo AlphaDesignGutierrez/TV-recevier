@@ -2,6 +2,8 @@
 
 READ THIS: this TV reciever may not be suitable for all ages since it might transmit by someone else other than me at any time.
 
+Latest version is recommended.
+
 resoultion: 300x216
 audio type: PAF (Picture Audio Format)
 buffer delay: 400-600 milliseconds
